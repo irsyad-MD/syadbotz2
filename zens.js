@@ -162,9 +162,9 @@ module.exports = zens = async (zens, m, chatUpdate, store) => {
 		status: 0,
 		autobio: true,
 		templateImage: true,
-		templateVideo: false,
-		templateGif: false,
-		templateMsg: false,
+		templateVideo: true,
+		templateGif: true,
+		templateMsg: true,
 	    }
 	    
         } catch (err) {
