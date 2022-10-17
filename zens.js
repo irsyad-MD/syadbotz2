@@ -3678,6 +3678,22 @@ let buttons = [{ buttonId: 'simplemenu', buttonText: { displayText: '⬅️Back'
 │⭔ ${prefix}tupai
 │
 └───────𖦹Ꜥꜥ
+┌──⭓ *Sound*
+│
+│⭔ ${prefix}sound1
+│⭔ ${prefix}sound2
+│⭔ ${prefix}sound3
+│⭔ ${prefix}sound4
+│⭔ ${prefix}sound5
+│⭔ ${prefix}sound6
+│⭔ ${prefix}sound7
+│⭔ ${prefix}sound8
+│⭔ ${prefix}sound9
+│⭔ ${prefix}sound10
+│⭔ ${prefix}sound11
+│⭔ ${prefix} ada 161 sound  ketik aja contoh sound19
+│
+└───────𖦹Ꜥꜥ
 ┌──⭓ *Owner Menu*
 │
 │⭔ ${prefix}react [emoji]
